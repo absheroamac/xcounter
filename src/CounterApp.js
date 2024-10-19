@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Component } from "react";
 
-class App extends Component {
+class CounterApp extends Component {
 
   constructor(props){
     super(props)
@@ -40,4 +40,4 @@ class App extends Component {
 }
 }
 
-export default App;
+export default CounterApp;
